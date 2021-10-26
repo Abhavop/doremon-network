@@ -1,0 +1,209 @@
+[17:33:05] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[17:33:05] [Server thread/INFO]: Loading properties
+[17:33:05] [Server thread/INFO]: Default game type: SURVIVAL
+[17:33:06] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-db6de12-18fbb24 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[17:33:06] [Server thread/INFO]: Debug logging is disabled
+[17:33:06] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:33:06] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:33:06] [Server thread/INFO]: Generating keypair
+[17:33:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:33:11] [Server thread/INFO]: Using default channel type
+[17:33:16] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[17:33:17] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.1.7
+[17:33:17] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[17:33:17] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.10.10
+[17:33:17] [Server thread/INFO]: [GadgetsMenu] Loading GadgetsMenu v4.5.4
+[17:33:17] [Server thread/INFO]: [TAB] Loading TAB v2.6.5
+[17:33:17] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[17:33:17] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[17:33:17] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[17:33:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:33:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:33:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:33:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:33:17] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[17:33:18] [Server thread/INFO]: Preparing level "lobby"
+[17:33:19] [Server thread/INFO]: -------- World Settings For [lobby] --------
+[17:33:19] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:33:19] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:33:19] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:33:19] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:33:19] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:33:19] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:33:19] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:33:19] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:33:19] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:33:19] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:33:19] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:33:19] [Server thread/INFO]: Mob Spawn Range: 4
+[17:33:19] [Server thread/INFO]: Anti X-Ray: true
+[17:33:19] [Server thread/INFO]: 	Engine Mode: 1
+[17:33:19] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[17:33:19] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[17:33:19] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:33:19] [Server thread/INFO]: Sending up to 10 chunks per packet
+[17:33:19] [Server thread/INFO]: Max TNT Explosions: 100
+[17:33:19] [Server thread/INFO]: Random Lighting Updates: false
+[17:33:19] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[17:33:19] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:33:19] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:33:19] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:33:19] [Server thread/INFO]: Structure Info Saving: true
+[17:33:19] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:33:19] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[17:33:19] [Server thread/INFO]: Clear tick list: false
+[17:33:19] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:33:19] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:33:19] [Server thread/INFO]: View Distance: 10
+[17:33:19] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[17:33:19] [Server thread/INFO]: Max Entity Collisions: 8
+[17:33:20] [Server thread/INFO]: Preparing start region for level 0 (Seed: 0)
+[17:33:21] [Server thread/INFO]: Preparing spawn area: 14%
+[17:33:22] [Server thread/INFO]: Preparing spawn area: 35%
+[17:33:23] [Server thread/INFO]: Preparing spawn area: 72%
+[17:33:23] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.1.7
+[17:33:23] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.10.10
+[17:33:25] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[17:33:25] [Server thread/INFO]: [GadgetsMenu] Enabling GadgetsMenu v4.5.4
+[17:33:25] [Server thread/INFO]: [GadgetsMenu] ------------------------------------------------------
+[17:33:25] [Server thread/INFO]: [GadgetsMenu]         GadgetsMenu [Free] 4.5.4 is loading...
+[17:33:25] [Server thread/INFO]: [GadgetsMenu]    [server: git-Spigot-db6de12-18fbb24 (MC: 1.8.8)]
+[17:33:25] [Server thread/INFO]: [GadgetsMenu]                 Running Java 1.8.0_311
+[17:33:25] [Server thread/INFO]: [GadgetsMenu]                Plugin by Yap Zhen Yie.
+[17:33:25] [Server thread/INFO]: [GadgetsMenu]             Date Modified: 3 October 2021
+[17:33:25] [Server thread/INFO]: [GadgetsMenu]                            
+[17:33:25] [Server thread/INFO]: [GadgetsMenu]              Initializing module v1_8_R3
+[17:33:25] [Server thread/INFO]: [GadgetsMenu] ------------------------------------------------------
+[17:33:33] [Server thread/INFO]: [GadgetsMenu] Connecting to SQLite database...
+[17:33:33] [Server thread/INFO]: [GadgetsMenu] Successfully connected to SQLite database!
+[17:33:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: gadgetsmenu
+[17:33:34] [Server thread/INFO]: [GadgetsMenu] [Placeholder] PlaceholderAPI hooked.
+[17:33:34] [Server thread/INFO]: [TAB] Enabling TAB v2.6.5
+[17:33:34] [Server thread/INFO]: [0;37;22m[TAB] Server version: 1.8.8 (v1_8_R3)[m
+[17:33:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: tab
+[17:33:36] [Server thread/INFO]: [0;32;1m[TAB] Enabled in 2370ms[m
+[17:33:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:33:37] [Server thread/INFO]: Done (18.572s)! For help, type "help" or "?"
+[17:33:37] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[17:33:37] [Craft Scheduler Thread - 0/INFO]: [GadgetsMenu] [mChecking for updates...[m
+[17:33:37] [Server thread/INFO]: [0;33;22mNo expansions were registered![m
+[17:33:38] [Craft Scheduler Thread - 2/INFO]: [Vault] Checking for Updates ... 
+[17:33:43] [Craft Scheduler Thread - 0/INFO]: [GadgetsMenu] No update was found, you are running the latest version.[m
+[17:33:43] [Craft Scheduler Thread - 2/INFO]: [Vault] No new version available
+[17:33:58] [Thread-10/INFO]: UUID of player Abhav_cool is 088a11c4-dca1-3795-8f83-60435af6f997
+[17:33:59] [Server thread/INFO]: Abhav_cool[/127.0.0.1:55863] logged in with entity id 10 at ([lobby]19.584866483416892, 79.0, 36.159313257229144)
+[17:34:56] [Server thread/INFO]: Abhav_cool issued server command: /plugman reload GadegetsMenu
+[17:35:15] [Server thread/INFO]: Abhav_cool issued server command: /plugman reload GadgetsMenu
+[17:35:28] [Server thread/INFO]: Opped Abhav_cool
+[17:36:14] [Server thread/INFO]: Abhav_cool lost connection: Disconnected
+[17:36:14] [Server thread/INFO]: Abhav_cool left the game.
+[17:38:00] [Thread-11/INFO]: UUID of player Abhav_cool is 088a11c4-dca1-3795-8f83-60435af6f997
+[17:38:00] [Server thread/INFO]: Abhav_cool[/127.0.0.1:55899] logged in with entity id 14 at ([lobby]39.96324430992778, 86.0, 22.19111853046036)
+[17:38:04] [Server thread/INFO]: Abhav_cool issued server command: /pl
+[17:38:36] [Server thread/INFO]: Abhav_cool lost connection: Disconnected
+[17:38:36] [Server thread/INFO]: Abhav_cool left the game.
+[17:48:30] [Thread-13/INFO]: UUID of player Abhav_cool is 088a11c4-dca1-3795-8f83-60435af6f997
+[17:48:31] [Server thread/INFO]: Abhav_cool[/127.0.0.1:55929] logged in with entity id 15 at ([lobby]40.04386788539026, 86.0, 22.652828946035672)
+[17:48:58] [Server thread/INFO]: Abhav_cool issued server command: /plugman reload GadgetsMenu
+[17:48:58] [Server thread/INFO]: [GadgetsMenu] Disabling GadgetsMenu v4.5.4
+[17:48:58] [Server thread/INFO]: [GadgetsMenu] SQLite database connection has been closed.
+[17:48:59] [Server thread/INFO]: [GadgetsMenu] Enabling GadgetsMenu v4.5.4
+[17:48:59] [Server thread/INFO]: [GadgetsMenu] ------------------------------------------------------
+[17:48:59] [Server thread/INFO]: [GadgetsMenu]         GadgetsMenu [Free] 4.5.4 is loading...
+[17:48:59] [Server thread/INFO]: [GadgetsMenu]    [server: git-Spigot-db6de12-18fbb24 (MC: 1.8.8)]
+[17:48:59] [Server thread/INFO]: [GadgetsMenu]                 Running Java 1.8.0_311
+[17:48:59] [Server thread/INFO]: [GadgetsMenu]                Plugin by Yap Zhen Yie.
+[17:48:59] [Server thread/INFO]: [GadgetsMenu]             Date Modified: 3 October 2021
+[17:48:59] [Server thread/INFO]: [GadgetsMenu]                            
+[17:48:59] [Server thread/INFO]: [GadgetsMenu]              Initializing module v1_8_R3
+[17:48:59] [Server thread/INFO]: [GadgetsMenu] ------------------------------------------------------
+[17:49:01] [Server thread/INFO]: [GadgetsMenu] Connecting to SQLite database...
+[17:49:01] [Server thread/INFO]: [GadgetsMenu] Successfully connected to SQLite database!
+[17:49:01] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: gadgetsmenu
+[17:49:01] [Server thread/INFO]: [GadgetsMenu] [Placeholder] PlaceholderAPI hooked.
+[17:49:01] [Craft Scheduler Thread - 8/INFO]: [GadgetsMenu] [mChecking for updates...[m
+[17:49:04] [Craft Scheduler Thread - 8/INFO]: [GadgetsMenu] No update was found, you are running the latest version.[m
+[17:49:56] [Server thread/INFO]: Abhav_cool issued server command: /spawn
+[17:49:58] [Server thread/INFO]: Abhav_cool issued server command: /help
+[17:53:20] [Server thread/INFO]: Abhav_cool issued server command: /gamemode creative
+[17:53:20] [Server thread/INFO]: [Abhav_cool: Set own game mode to Creative Mode]
+[17:59:26] [Server thread/INFO]: Abhav_cool issued server command: /plugman reload TAB
+[17:59:26] [Server thread/INFO]: [TAB] Disabling TAB v2.6.5
+[17:59:26] [Server thread/INFO]: [0;32;1m[TAB] Disabled in 8ms[m
+[17:59:26] [Server thread/INFO]: [TAB] Enabling TAB v2.6.5
+[17:59:26] [Server thread/INFO]: [0;37;22m[TAB] Server version: 1.8.8 (v1_8_R3)[m
+[17:59:26] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: tab
+[17:59:26] [Server thread/INFO]: [0;32;1m[TAB] Enabled in 150ms[m
+[17:59:58] [Server thread/INFO]: Abhav_cool issued server command: /plugman reload TAB
+[17:59:58] [Server thread/INFO]: [TAB] Disabling TAB v2.6.5
+[17:59:58] [Server thread/INFO]: [0;32;1m[TAB] Disabled in 6ms[m
+[17:59:59] [Server thread/INFO]: [TAB] Enabling TAB v2.6.5
+[17:59:59] [Server thread/INFO]: [0;37;22m[TAB] Server version: 1.8.8 (v1_8_R3)[m
+[17:59:59] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: tab
+[17:59:59] [Server thread/INFO]: [0;32;1m[TAB] Enabled in 200ms[m
+[18:00:15] [Server thread/INFO]: Abhav_cool issued server command: /plugman reload TAB
+[18:00:15] [Server thread/INFO]: [TAB] Disabling TAB v2.6.5
+[18:00:15] [Server thread/INFO]: [0;32;1m[TAB] Disabled in 5ms[m
+[18:00:16] [Server thread/INFO]: [TAB] Enabling TAB v2.6.5
+[18:00:16] [Server thread/INFO]: [0;37;22m[TAB] Server version: 1.8.8 (v1_8_R3)[m
+[18:00:16] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: tab
+[18:00:16] [Server thread/INFO]: [0;32;1m[TAB] Enabled in 128ms[m
+[18:00:56] [Server thread/INFO]: Abhav_cool issued server command: /plugman reload TAB
+[18:00:56] [Server thread/INFO]: [TAB] Disabling TAB v2.6.5
+[18:00:56] [Server thread/INFO]: [0;32;1m[TAB] Disabled in 4ms[m
+[18:00:56] [Server thread/INFO]: [TAB] Enabling TAB v2.6.5
+[18:00:56] [Server thread/INFO]: [0;37;22m[TAB] Server version: 1.8.8 (v1_8_R3)[m
+[18:00:56] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: tab
+[18:00:56] [Server thread/INFO]: [0;32;1m[TAB] Enabled in 132ms[m
+[18:01:17] [Server thread/INFO]: Abhav_cool issued server command: /plugman reload TAB
+[18:01:17] [Server thread/INFO]: [TAB] Disabling TAB v2.6.5
+[18:01:17] [Server thread/INFO]: [0;32;1m[TAB] Disabled in 7ms[m
+[18:01:18] [Server thread/INFO]: [TAB] Enabling TAB v2.6.5
+[18:01:18] [Server thread/INFO]: [0;37;22m[TAB] Server version: 1.8.8 (v1_8_R3)[m
+[18:01:18] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: tab
+[18:01:18] [Server thread/INFO]: [0;32;1m[TAB] Enabled in 199ms[m
+[18:05:48] [Server thread/INFO]: Abhav_cool issued server command: /plugman reload TAB
+[18:05:48] [Server thread/INFO]: [TAB] Disabling TAB v2.6.5
+[18:05:48] [Server thread/INFO]: [0;32;1m[TAB] Disabled in 4ms[m
+[18:05:49] [Server thread/INFO]: [TAB] Enabling TAB v2.6.5
+[18:05:49] [Server thread/INFO]: [0;37;22m[TAB] Server version: 1.8.8 (v1_8_R3)[m
+[18:05:49] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: tab
+[18:05:49] [Server thread/INFO]: [0;32;1m[TAB] Enabled in 184ms[m
+[18:09:19] [Server thread/INFO]: Abhav_cool issued server command: /gamemode survival
+[18:09:19] [Server thread/INFO]: [Abhav_cool: Set own game mode to Survival Mode]
+[18:09:45] [Server thread/INFO]: Abhav_cool issued server command: /gamemode creative
+[18:09:45] [Server thread/INFO]: [Abhav_cool: Set own game mode to Creative Mode]
+[18:21:07] [Server thread/INFO]: Abhav_cool issued server command: /weather clear
+[18:21:07] [Server thread/INFO]: [Abhav_cool: Changing to clear weather]
+[18:21:13] [Server thread/INFO]: Abhav_cool issued server command: /time set day
+[18:21:13] [Server thread/INFO]: [Abhav_cool: Set the time to 1000]
+[18:27:02] [Server thread/INFO]: Abhav_cool issued server command: /weather clear
+[18:27:02] [Server thread/INFO]: [Abhav_cool: Changing to clear weather]
+[18:27:06] [Server thread/INFO]: Abhav_cool issued server command: /time ser say
+[18:27:11] [Server thread/INFO]: Abhav_cool issued server command: /time set day
+[18:27:11] [Server thread/INFO]: [Abhav_cool: Set the time to 1000]
+[18:27:39] [Server thread/INFO]: Abhav_cool issued server command: /time set night
+[18:27:39] [Server thread/INFO]: [Abhav_cool: Set the time to 13000]
+[18:29:58] [Server thread/INFO]: Abhav_cool issued server command: /time set day
+[18:29:58] [Server thread/INFO]: [Abhav_cool: Set the time to 1000]
+[18:34:57] [Server thread/INFO]: Abhav_cool issued server command: /kill @a
+[18:34:57] [Server thread/INFO]: [Abhav_cool: Killed Abhav_cool]
+[18:35:47] [Server thread/INFO]: Abhav_cool issued server command: /weather clear
+[18:35:47] [Server thread/INFO]: [Abhav_cool: Changing to clear weather]
+[18:35:55] [Server thread/INFO]: Abhav_cool issued server command: /time set day
+[18:35:55] [Server thread/INFO]: [Abhav_cool: Set the time to 1000]
+[18:42:14] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[18:42:17] [Server thread/INFO]: Stopping the server
+[18:42:17] [Server thread/INFO]: Stopping server
+[18:42:17] [Server thread/INFO]: [TAB] Disabling TAB v2.6.5
+[18:42:17] [Server thread/INFO]: [0;32;1m[TAB] Disabled in 3ms[m
+[18:42:17] [Server thread/INFO]: [GadgetsMenu] Disabling GadgetsMenu v4.5.4
+[18:42:17] [Server thread/INFO]: [GadgetsMenu] SQLite database connection has been closed.
+[18:42:17] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.10.10
+[18:42:17] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[18:42:17] [Server thread/INFO]: [PlugMan] Disabling PlugMan v2.1.7
+[18:42:18] [Server thread/INFO]: Saving players
+[18:42:18] [Server thread/INFO]: Abhav_cool lost connection: Server closed
+[18:42:18] [Server thread/INFO]: Abhav_cool left the game.
+[18:42:18] [Server thread/INFO]: Saving worlds
+[18:42:18] [Server thread/INFO]: Saving chunks for level 'lobby'/Overworld
